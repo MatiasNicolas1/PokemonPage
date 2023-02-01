@@ -48,7 +48,7 @@
 .container .content .image img{
     height: 500px;
     float: right;
-    margin-right: 200px;
+    margin-right: 180px;
 }
 
 @media (max-width:1250px){
