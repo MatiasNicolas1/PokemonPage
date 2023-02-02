@@ -55,14 +55,11 @@ main{
     display: block;
     text-align: center;
     position: relative;
-    top: -65px
+    top: -65px;
 }
 
 .pokemon-stats p{
     letter-spacing: 1px;
 }
 
-@media (max-width:600px){
-
-}
 
