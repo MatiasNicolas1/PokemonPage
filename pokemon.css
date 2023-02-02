@@ -287,3 +287,9 @@ main{
     letter-spacing: 1px;
 }
 
+@media (max-width:480px){
+    .image-fire{
+        width: 233px;
+        height: 200px;
+    }
+}
