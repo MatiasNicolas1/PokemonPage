@@ -2,6 +2,7 @@
 @import url(main.css);
 @import url(pokemenu.css);
 @import url(storemenu.css);
+@import url(historymenu.css);
 
 *{
     padding: 0;
